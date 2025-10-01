@@ -3,15 +3,44 @@
 
 Rudra Singh Chauhan
 
+# 📄 License – Library Management System (Java)
+
+Copyright © [RudraSingh Chauhan], 2025  
+All rights reserved.
+
+This project is provided **free of charge for educational and learning purposes only**.
+
+You are **allowed to**:
+- View the source code for your own learning.
+- Extend the code for school or academic projects.
+- Share the GitHub link for reference or collaboration (with proper credit).
+
+You are **NOT allowed to**:
+- Redistribute or resell the project or its parts as your own work.
+- Use this project for commercial or paid purposes without written permission.
+- Remove or alter author credits in any form.
+
+If you use or modify this project, please give proper credit to the original author.
+
 ---
 
-## ✅ 3. `books.txt` (Sample)
+For commercial use, collaboration, or licensing inquiries, please contact:
 
-**📄 Filename:** `books.txt`  
-**📁 Type:** Text file  
-**📌 Purpose:** Stores book records in CSV format. Here's sample content to include if needed:
+📧 [chauhanrudrasingh2007@gmail.com]  
+🔗 GitHub: [https://github.com/RudraS-Chauhan]
 
-```txt
-B101,Java Programming,John Smith,5,Available
-B102,Python Basics,Jane Doe,3,Available
-B103,Data Structures,Alan Turing,2,Available
+
+
+⭐ Star this Project ⭐
+
+---
+
+Let me know if you'd like help:
+
+- Replacing placeholders (your name, email, GitHub link, etc.)
+- Generating screenshots or demo `.gif`s
+- Creating a `.jar` file or ZIP for easy download
+- Writing Fiverr/Gumroad copy for selling this project
+
+Would you like me to add a **short documentation PDF** template for offline submission too?
+
