@@ -1,0 +1,17 @@
+
+👤 Author
+
+Rudra Singh Chauhan
+
+---
+
+## ✅ 3. `books.txt` (Sample)
+
+**📄 Filename:** `books.txt`  
+**📁 Type:** Text file  
+**📌 Purpose:** Stores book records in CSV format. Here's sample content to include if needed:
+
+```txt
+B101,Java Programming,John Smith,5,Available
+B102,Python Basics,Jane Doe,3,Available
+B103,Data Structures,Alan Turing,2,Available

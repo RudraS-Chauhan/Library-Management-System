@@ -1,0 +1,6 @@
+B001,Harry Potter and the Goblet Of Fire,J.K Rowling,0,Not Available
+B002,Its Ends With US,Allen Coover,2,Available
+B003,Harry Potter and The Philiosphers Stone,J.K Rowling,1,Available
+B004,Harry Potter and the Chamber of Secrets,J.K Rowling,1,Available
+B005,Harry Potter and the Prisoners of Azkaban,J.K Rowling ,1,Available
+B006,Harry Potter and the Order of Phoenix,J.K Rowling,1,Available

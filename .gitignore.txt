@@ -1,0 +1,13 @@
+# Ignore compiled class files
+*.class
+
+# Ignore auto-generated receipts and reports
+receipts/
+issued_report*
+
+# Ignore temporary and backup files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
